@@ -1,0 +1,37 @@
+<resources>
+    <string name="Alert_Dialog_1">Alert Dialog Message</string>
+    <string name="app_name">Sixth Sense Project V1</string>
+
+    <!--   card test tags -->
+    <string name="card1">Card</string>
+    <string name="card2">Card</string>
+    <string name="cardsub1">Sub Card</string>
+    <string name="cardsub2">Sub Card</string>
+
+    <!-- RealTimes screen tags for testing-->
+    <string name="RTEnv">RealTimeEnvTwoPointO</string>
+    <string name="RTHealth">RealTimeHealthTwoPointO</string>
+    <string name="RTEnvMe">RealTimeEnvTwoPointOMe</string>
+    <string name="RTHealthMe">RealTimeHealthTwoPointOMe</string>
+
+    <!-- RealTimes screen tags for testing-->
+    <string name="RTVitalSub">RealTimeVitalSubGraph</string>
+    <string name="RTVitalSubMe">RealTimeVitalSubGraphMe</string>
+    <string name="RTWarning">RealTimeSingleWarning</string>
+    <string name="RTWarningMe">RealTimeSingleWarningMe</string>
+
+    <!-- Map screen tags for testing-->
+    <string name="MBScreen">MapboxScreen</string>
+
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_test_history">TestActivityHistory</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <!--OfflineManager-->
+    <string name="mapbox_access_token">pk.eyJ1IjoiYWtveWlrYWxvcmF0IiwiYSI6ImNsZHFkcDhhMTBza3YzdWxiemphc3Rsc24ifQ.En5sa68xhlqR3WNOFA_dNg</string>
+    <string name="MAPBOX_DOWNLOADS_TOKEN">sk.eyJ1IjoiYWtveWlrYWxvcmF0IiwiYSI6ImNsZTF0OGRiMTBvYmMzcGxpb2x3dmdwMXEifQ.4nVTsnVjdKOc-Jd2hLb0bQ</string>
+    <string name="view_map">View map</string>
+    <string name="style_pack">Style pack</string>
+    <string name="tile_region">Tile region</string>
+
+</resources>
